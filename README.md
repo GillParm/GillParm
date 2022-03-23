@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on Flutter app.
 - 🌱 I’m currently learning Flutter, Dart & Go.
 - 💬 Ask me about VueJS, React, Node.js
-- 📫 How to reach me: [My LinkedIN](https://www.linkedin.com/in/parmangill/)
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/parmangill/)
 - 🤔 Why is it called a building if its already built?
 
