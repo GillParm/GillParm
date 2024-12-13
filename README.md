@@ -1,2 +1,3 @@
+- Welcome to my private, non-work related GitHub
 - 💬 Ask me about React Native, Typescript, & Design Systems.
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/parmangill/)
